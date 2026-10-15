@@ -1,0 +1,30 @@
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*service-account*.json
+
+# Generated material (not source)
+data/
+outputs/
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.jsonl
+metadata.csv
+HelpContentStep*.csv
+*HelpContentFinal.csv
+*help_articles.csv
+*articles.csv
+*collections.csv
+*_sitemap_urls.csv
+
+# Notebook and Python caches
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+.venv/
