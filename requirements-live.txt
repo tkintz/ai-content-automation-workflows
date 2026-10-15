@@ -1,0 +1,5 @@
+# Optional, for real workflows only (not required for synthetic demos).
+pytube
+openai-whisper
+requests
+# The Whisper package brings model-specific dependencies, including PyTorch.
