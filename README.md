@@ -1,4 +1,4 @@
-# Content Extraction & AI Workflow Portfolio (2023 SJK project)
+# AI-Powered Content Extraction & Workflow Automation
 
 A curated portfolio presentation of selected Python/Google Colab work from a **2023 contract project at SJK Enterprises**. The work explored ways to convert instructional video content and public help-center documentation into structured material for support-related workflows.
 
